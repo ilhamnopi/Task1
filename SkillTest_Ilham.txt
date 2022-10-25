@@ -1,4 +1,4 @@
-Nama: Ilham 
+Nama: Ilham Nopi Hendri 
 Umur: 25
 Stack: Frontend
 Bahasa Pemograman: Javascript
