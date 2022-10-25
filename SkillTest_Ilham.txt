@@ -1,0 +1,4 @@
+Nama: Ilham 
+Umur: 25
+Stack: Frontend
+Bahasa Pemograman: Javascript
